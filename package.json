@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vuedraggable": "^2.24.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
